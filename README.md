@@ -1,2 +1,2 @@
 # Spark
-Practical and Resource 
+Practicals and Resource 
